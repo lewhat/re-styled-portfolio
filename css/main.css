@@ -409,13 +409,13 @@ h5 {
 .hero .one_third {
     border-left: 5px solid rgba(255,255,255,0.2);
     padding-left: 2%;
-    width: 30.5%;
+    width: 23.5%;
     margin: 20px 0;
 }
 .hero .one_third_last {
     border-left: 5px solid rgba(255,255,255,0.2);
     padding-left: 2%;
-    width: 30.5%;
+    width: 29.5%;
     margin: 20px 0;
 }
 .hero:after {
