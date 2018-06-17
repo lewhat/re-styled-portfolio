@@ -267,7 +267,7 @@
 			html = '<video';
 
 		if (data.loop) {
-			html += ' loop';
+			html += ' loop muted="muted"';
 		}
 		html += '>';
 		if (data.source.webm) {
